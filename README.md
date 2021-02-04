@@ -1,4 +1,4 @@
-### Hi there, Welcome to my world!👋
+### Hi there, I really wish empowering women in tech👋
 
 <!--
 **ltramos14/ltramos14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
