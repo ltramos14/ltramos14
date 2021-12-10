@@ -4,8 +4,8 @@
 
 ## About me  
   - <em> Hi there👋 here you can know a little of what I love to do. 
-  - My name is Tatiana & I'm 21 years old 👩‍💻🌸
-  - Currently, I'm a student in the seventh semester of systems engineering and I really love the world of software development 💻💕</em>
+  - My name is Tatiana & I'm 22 years old 👩‍💻🌸
+  - Currently, I'm a student in the ninth semester of systems engineering and I really love the world of software development 💻💕</em>
 
 ## About my knowledge
   - <em> JAVA </em> <code><img height="25" src="https://ubunlog.com/wp-content/uploads/2014/03/logo-java-830x460.jpg"/></code>
